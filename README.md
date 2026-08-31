@@ -1,6 +1,3 @@
-# airbnb-istanbul-revenue-prediction
-Airbnb-İstanbul verisi ile hostlara maksimum geliri elde edebilecekleri ilçe öneren makine öğrenmesi projesi 
-
 # 🏠 Airbnb İstanbul — Gelir Tahmini ve Bölge Önerisi
 
 Airbnb İstanbul ilan verisini kullanarak yatırımcılara **en yüksek gelir potansiyeline sahip bölgeyi öneren** uçtan uca bir veri analitiği ve makine öğrenmesi projesi.
