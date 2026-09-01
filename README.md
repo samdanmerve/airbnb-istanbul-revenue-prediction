@@ -72,3 +72,4 @@ Bulgular interaktif bir Power BI dashboard'unda görselleştirildi:
 
 **Hazırlayan:** Merve Şamdan · [LinkedIn](www.linkedin.com/in/merve-samdan)
 
+
