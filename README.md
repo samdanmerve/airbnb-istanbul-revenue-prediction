@@ -54,9 +54,9 @@ Bulgular interaktif bir Power BI dashboard'unda görselleştirildi:
 - **ML** — özellik önem dereceleri (feature importance)
 - **Recommend** — oda tipine göre filtrelenebilir ilçe önerileri ve harita
 
-![Dashboard Overview](images/Localyze _Overview.png)
-![ML Sayfası](images/Localyze _ML.png)
-![Öneri Sayfası](images/Localyze _Recommend.png)
+![Dashboard Overview](images/dashboard_ml.png)
+![ML Sayfası](images/dashboard_ml.png)
+![Öneri Sayfası](images/dashboard_recommend.png)
 
 ## ⚠️ Sınırlılıklar
 
