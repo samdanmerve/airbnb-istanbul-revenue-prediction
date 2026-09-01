@@ -70,6 +70,7 @@ Bulgular interaktif bir Power BI dashboard'unda görselleştirildi:
 `Python` (pandas, scikit-learn, XGBoost, CatBoost) · `Power BI` · `Jupyter Notebook`
 
 
-**Hazırlayan:** Merve Şamdan · [LinkedIn](www.linkedin.com/in/merve-samdan) 
+**Hazırlayan:** Merve Şamdan · [LinkedIn] (www.linkedin.com/in/merve-samdan)
+
 
 
